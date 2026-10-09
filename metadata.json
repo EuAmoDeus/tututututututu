@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora Pro & Científica",
+  "description": "Calculadora moderna e completa com modos Padrão, Científico, Financeiro, Conversor de Unidades e Histórico inteligente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
